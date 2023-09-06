@@ -1,0 +1,16 @@
+#mainDiv {
+    width: 7vw;
+    height: 7vw;
+    background-color: #55e6f0;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainDiv p {
+    font-size: 1.4vw;
+    color: rgb(21, 20, 20);
+}
